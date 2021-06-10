@@ -8,7 +8,7 @@ cryptography==3.4.7
 deepdiff==4.0.9
 defusedxml==0.6.0
 distlib==0.3.0
-Django==2.2.19
+Django==2.2.24
 django-rest-auth==0.9.5
 django-tenant-schemas @ git+https://github.com/vrdel/django-tenant-schemas@7d8d26f357d9f438a59e84e6336a70905141f5ac
 django-webpack-loader==0.7.0
